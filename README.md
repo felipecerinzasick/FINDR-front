@@ -1,6 +1,6 @@
 # 🍴 FNDR
 
-🧪 An open-source decentralized application (dapp) with toolkits that uses the Ethereum blockchain. FNDR is a restaurant finder app within a decentralized environment. It's equipped with features that allow users to find, stake and do other cool stuff that interact with smart contracts.
+🧪 FINDR is a blockchain/ AI powered review app which gamifies the restaurant review process and offers incentives for the restaurant goers, reviewers and anyone who are generally interested in this space. It's a decentralized application that uses the scaffold-eth 2 toolkit to interact with the Ethereum blockchain. The app is equipped with features that allow users to find, stake and do other cool stuff that interact with smart contracts.
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript.
 
